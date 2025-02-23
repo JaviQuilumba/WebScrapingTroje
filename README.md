@@ -8,6 +8,8 @@ Este proyecto es un scraper que busca noticias relacionadas con el deslizamiento
 - Node.js instalado en tu sistema.
 - Dependencias de Node.js: `axios`, `cheerio`.
 
+```
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
@@ -16,7 +18,6 @@ Este proyecto es un scraper que busca noticias relacionadas con el deslizamiento
    git clone https://github.com/tu-usuario/tu-repositorio.git
    ```
    
-```
 
 2. Navega al directorio del proyecto:
 
