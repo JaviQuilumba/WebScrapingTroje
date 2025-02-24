@@ -36,7 +36,7 @@ Este proyecto es un scraper que busca noticias relacionadas con el deslizamiento
 1. Una vez que hayas instalado las dependencias, puedes ejecutar el scraper con el siguiente comando:
 
    ```bash
-   node scraper.js
+   node scrapping.js
    ```
 
 2. El scraper realizará una búsqueda en Google utilizando la consulta `deslizamiento "el troje" quito 2017`, filtrará los resultados relevantes y generará tres archivos:
